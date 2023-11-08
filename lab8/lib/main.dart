@@ -32,7 +32,6 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   late final NotificationService notificationService;
-  String text = '';
 
   @override
   void initState() {
